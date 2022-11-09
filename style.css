@@ -102,7 +102,7 @@ body {
       }
       .top:hover {
         box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
-        width: 150px;
+        width: 250px;
         font-size: 21px;
         cursor: pointer;
       }
