@@ -2,7 +2,7 @@
 
 # Tibernet
 
-## Bypass low-level censorship and conserve your privacy and rights!.
+## Bypass low-level censorship and conserve your privacy and rights!
 
 ### Introduction & Use-Cases
 
