@@ -35,6 +35,7 @@ body {
         border: none;
         display: inline-block;
         text-align: center;
+        item-align: top;
       }
 
       .button {
