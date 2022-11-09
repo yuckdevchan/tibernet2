@@ -106,6 +106,12 @@ body {
         font-size: 21px;
         cursor: pointer;
       }
+      .based:hover {
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+        width: 150px;
+        font-size: 21px;
+        cursor: pointer;
+      }
       .top:active {
         background-color: rgb(118, 227, 108);
       }
