@@ -24,7 +24,7 @@ Please submit issues in the issues tab such as:
 
 ### Legal & Licensing
 
-If anyone has licensing issues please contact me by placing an issue on this GitHub repository. If you forking or just using my project for commerical use, feel free as long as it follows my license this project is under, (the GPL v2.0 and **not** the GPL v3.0).\
+If anyone has licensing issues please contact me by placing an issue on this GitHub repository. If you forking or just using my project for commerical use, feel free as long as it follows my license this project is under, (the GPL v2.0 and **not** the GPL v3.0).
 
 ### Privacy
 
