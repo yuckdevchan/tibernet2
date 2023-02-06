@@ -56,6 +56,7 @@ window.onload = function() {
 </head>
 
 <body>
+  <center>
   <div id="audioControls">
     <input id="freqText" type="text" value="440" onchange="updateFreq(this.value)"/>
     <input type="button" value="-1 octave" onclick="updateFreq(freq / 2)"/>
@@ -69,5 +70,6 @@ window.onload = function() {
 
     <input id="toggle" type="button" value="Play" onclick="toggle()"/>
   </div>
+  </center>
 </body>
 </html>
