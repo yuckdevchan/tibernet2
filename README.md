@@ -1,6 +1,6 @@
-# Tibernet 2.0
+# Deprecated in Favour of [Tibernet 3](https://github.com/yuckdevchan/tibernet3).
 
-# Tibernet
+# Tibernet 2.0
 
 ## Bypass low-level censorship and conserve your privacy and rights!
 
